@@ -13,7 +13,7 @@ func main() {
 	var age int
 
 	// input
-	fmt.Println("This program gets a users name and age.")
+	fmt.Println("This program gets a user's name and age.")
 	fmt.Println()
 	fmt.Print("Enter your first name: ")
 	fmt.Scanln(&firstName)
