@@ -21,6 +21,6 @@ func main() {
 	fmt.Scanln(&age)
 
 	// output
-	fmt.Print("Your info is: " , firstName)
-	fmt.Println("\n\nDone.")
+	fmt.Println("Your info is: ", firstName, " age ", age)
+	fmt.Println("\nDone.")
 }
